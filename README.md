@@ -1,3 +1,3 @@
 ## simple portfolio page
 
-- please give your [opion](https://ghostdainy.github.io/css/)
+- please give your [opinion](https://ghostdainy.github.io/css/)
